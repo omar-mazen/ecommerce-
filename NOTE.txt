@@ -1,0 +1,29 @@
+get modal sheet form GP
+modal sheet not close
+
+# STYLING #
+###########
+add shades or buttons in slider to indicate there is another products
+
+get select option from graduation project 
+handle size and colors in product details page
+reviews page => first section, button, text area is white and color also white and modal
+price range seek
+checkout button
+buttons size  
+banners in large screens
+
+
+# features / component to add #
+###############################
+add not found page
+add search
+
+
+
+# done #
+########
+product onclick => not move to product
+categories in mobile (is mobile)
+long press => make it for mobile only
+make background for sale perc
